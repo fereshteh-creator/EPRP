@@ -12,9 +12,12 @@ The core workflow is:
 ## What’s inside (high level)
 
 - **Notebooks (main analysis)**
-  - `generate_and_similarity.ipynb` — generation + similarity pipeline
-  - `results.ipynb` — result aggregation / plots
-  - `language_and_lice_stats.ipynb` — GitHub ecosystem stats (licenses + languages)
+  - `language_and_lice_stats.ipynb` — descriptive statistics on GitHub programming language and license distributions (Githut data)
+  - `remove_duplicates.ipynb` — detection and removal of exact duplicate functions in the copyleft corpora prior to sampling
+  - `generate_and_similarity.ipynb` — data loading, preprocessing, controlled code generation, and similarity computation
+  - `results.ipynb` — aggregation of similarity results and generation of tables and figures used in the report
+  
+
 
 - **Scripts**
   - `extract_functions.py` — function extraction from source files
