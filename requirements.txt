@@ -1,0 +1,14 @@
+PyGithub
+PyYAML
+tqdm
+streamlit
+datasets
+numpy
+pandas
+matplotlib
+transformers
+openai
+google-genai
+scikit-learn
+torch
+faiss-cpu

@@ -1,0 +1,25 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+eprp/
+.env
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large Data 
+data/raw_repos/
+data/zipped_repos/
+data/logs/
+data/plots/
+data/**/corpus_*_copyleft.jsonl
+

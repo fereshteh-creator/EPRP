@@ -1,0 +1,40 @@
+GPL-3.0:
+  category: strong_copyleft
+  risk: high
+  obligations:
+    - "Distribute derivative works under GPL-3.0."
+    - "Provide complete corresponding source."
+    - "Retain copyright and license notices."
+
+AGPL-3.0:
+  category: network_copyleft
+  risk: very_high
+  obligations:
+    - "If offered over a network (SaaS), provide source code."
+    - "Keep derivative works under AGPL-3.0."
+
+LGPL-3.0:
+  category: weak_copyleft
+  risk: medium
+  obligations:
+    - "Modifications to the library must remain under LGPL."
+    - "Dynamic linking typically allowed."
+
+MIT:
+  category: permissive
+  risk: low
+  obligations:
+    - "Retain copyright and license text."
+
+Apache-2.0:
+  category: permissive
+  risk: low
+  obligations:
+    - "Retain license and NOTICE file."
+    - "Respect patent license terms."
+
+BSD-3-Clause:
+  category: permissive
+  risk: low
+  obligations:
+    - "Retain copyright and license notice."

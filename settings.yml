@@ -1,0 +1,33 @@
+GITHUB_TOKEN: ${GITHUB_TOKEN}
+
+languages:
+  - python
+  - java
+  - javascript
+  - typescript
+  - c
+  - ruby
+  - go
+  - scala
+  - lua
+  - perl
+  - sql
+  - haskell
+  - rust
+  - fortran
+  - assembly
+  - julia
+
+licenses:
+  - MIT
+  - Apache-2.0
+  - BSD-3-Clause
+  - GPL-3.0
+  - AGPL-3.0
+  - LGPL-3.0
+
+max_repos_per_license: 10000
+max_files_per_repo: 25
+min_files_per_repo: 14
+max_file_size_bytes: 20000
+min_stars: 100
