@@ -1,5 +1,5 @@
 
-# EPRP, Copyleft Similarity Risk in AI-Generated Code
+# EPRP: Copyleft Similarity Risk in AI-Generated Code
 
 This repository contains the code and analysis artifacts for a project on **license-conflict risk in AI-generated code**, focusing on whether **strong copyleft similarity** differs across **programming languages**, **models**, and **temperature settings**.
 
