@@ -31,7 +31,7 @@ The core workflow is:
   - `results_table_language_temperature.csv`
 
 - **Data**
-  - `data/` — intermediate data (large raw corpora / raw repos are intentionally not included in git)
+  - `data/` — similarity results data
 
 
 (See the repository file tree for the complete list.)  
